@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! This is ARAN's Github account 👋
+
+<p align="left"> 
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=ARAN1218&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN1218&theme=tokyonight&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ARAN1218&theme=tokyonight&column=7&margin-w=29
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **ARAN1218/ARAN1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
