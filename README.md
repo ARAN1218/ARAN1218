@@ -13,9 +13,6 @@
   <a href="https://github.com/ARAN1218/ARAN1218/">
     <img src="https://komarev.com/ghpvc/?username=ARAN1218" alt="ARAN1218" />
   </a>
-  <a href="http://twitter.com/aran_ai_python">
-    <img height="20" src="https://img.shields.io/twitter/follow/aran_ai_python?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/ARAN1218">
     <img height="20" src="https://img.shields.io/github/followers/ARAN1218?label=follow&logo=github&style=flat" />
   </a>
